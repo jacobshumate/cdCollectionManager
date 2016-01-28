@@ -4,7 +4,7 @@ CD Collection Manager is program written in C++ that contains cd's which are nod
 To Compile:
 ```
 g++ -c cd_collection.cpp driver.cpp
-g++ driver.o cd_collection.o -o <output_name>
+g++ driver.o cd_collection.o -o test
 ```
 
 ![alt tag](https://i.imgur.com/S94XksN.jpg)
